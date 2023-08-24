@@ -58,21 +58,3 @@ export default Feedback;
 
 
 
-
-// .feedbackContainer {
-  
-//   flex-direction: column;
-//   align-items: center;
-//   margin-top: 20px;
-//   background-color: rgb(255, 255, 255);
-//   border: 1px solid rgb(204, 204, 204);
-//   padding: 20px;
-// }
-
-
-
-
-// .please{
-//   font-size: 24px;
-//   margin-bottom: 20px;
-// }
